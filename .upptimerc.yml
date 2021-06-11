@@ -27,7 +27,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.wjghj.cn
   # baseUrl: /your-repo-name
-  apiBaseUrl: https://hub.fastgit.org
+  # apiBaseUrl: https://hub.fastgit.org
   logoUrl: https://www.wjghj.cn/public/icons/wiki-wordmark.svg
   name: Wjghj Monitor
   introTitle: '**万界规划局项目组 Wjghj Project**'
