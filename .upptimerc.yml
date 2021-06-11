@@ -7,7 +7,7 @@ repo: status # The name of this repository
 sites:
   - name: 小鱼君和他的朋友们 (Wjghj Wiki)
     url: https://www.wjghj.cn
-  - name: 小鱼君的博客 (Dragon Fish's Blog)
+  - name: "小鱼君的博客 (Dragon Fish's Blog)"
     url: https://blog.wjghj.cn
   - name: 万界规划局共享资源库 (Wjghj Project Static Database)
     url: https://common.wjghj.cn
@@ -27,6 +27,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.wjghj.cn
   # baseUrl: /your-repo-name
+  apiBaseUrl: https://hub.fastgit.org
   logoUrl: https://www.wjghj.cn/public/icons/wiki-wordmark.svg
   name: Wjghj Monitor
   introTitle: '**万界规划局项目组 Wjghj Project**'
@@ -104,7 +105,7 @@ i18n:
   rateLimitExceededSaveToken: 保存令牌
   errorTitle: 哎呀，出大问题
   errorIntro: 好像无法获取最新的状态数据……
-  errorText: 如果您位于中国大陆，则可能是无法访问 GitHub 数据导致的。<br>您也可以稍后再试。
+  errorText: 如果您位于中国大陆，则可能是无法访问 GitHub 数据导致的。您也可以稍后再试。
   errorHome: 回到首页
   pastScheduledMaintenance: 过去的定期维护
   scheduledMaintenance: 定期维护
