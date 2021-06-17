@@ -19,8 +19,6 @@ sites:
     url: https://ngnlwiki.cn
   - name: 万界规划局 wiki (EPBureau Fandom)
     url: https://epbureau.fandom.com
-  - name: Huiji Wiki
-    url: https://www.huijiwiki.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
