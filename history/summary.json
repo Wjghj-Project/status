@@ -4,10 +4,10 @@
     "url": "https://www.wjghj.cn",
     "icon": "https://favicons.githubusercontent.com/www.wjghj.cn",
     "slug": "wjghj-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 6814,
@@ -15,7 +15,9 @@
     "timeWeek": 7893,
     "timeMonth": 6814,
     "timeYear": 6814,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-04": 1
+    }
   },
   {
     "name": "小鱼君的博客 (Dragon Fish's Blog)",
