@@ -107,18 +107,19 @@
     "url": "https://sili.wjghj.cn",
     "icon": "https://favicons.githubusercontent.com/sili.wjghj.cn",
     "slug": "chatbot-sili",
-    "status": "up",
-    "uptime": "94.78%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "94.80%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "91.86%",
     "uptimeMonth": "97.89%",
-    "uptimeYear": "94.78%",
-    "time": 1558,
-    "timeDay": 634,
-    "timeWeek": 1189,
-    "timeMonth": 1483,
-    "timeYear": 1558,
+    "uptimeYear": "94.80%",
+    "time": 1557,
+    "timeDay": 929,
+    "timeWeek": 1193,
+    "timeMonth": 1476,
+    "timeYear": 1557,
     "dailyMinutesDown": {
+      "2021-11-30": 0,
       "2021-11-28": 427,
       "2021-11-27": 394,
       "2021-11-13": 104,
@@ -149,7 +150,7 @@
       "2021-07-15": 128,
       "2021-07-14": 56,
       "2021-07-11": 489,
-      "2021-07-10": 645
+      "2021-07-10": 601
     }
   },
   {
