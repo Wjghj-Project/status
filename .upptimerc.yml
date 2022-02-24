@@ -44,9 +44,9 @@ i18n:
   url: URL
   status: 状态
   history: 历史
-  up: 正常运行
-  degraded: 部分停机
-  down: 全线宕机
+  up: 正常
+  degraded: 较差
+  down: 宕机
   responseTimeGraphAlt: 响应时间趋势
   ms: ms
   responseTime: 响应时间
@@ -60,29 +60,29 @@ i18n:
   uptimeMonth: 30日可用率
   uptimeYear: 1年可用率
   liveStatus: 实时状态
-  liveStatusHtmlComment: ''
-  allSystemsOperational: 好耶，系统全功率运转中~
-  degradedPerformance: 不太好，部分系统可用率偏低……
-  completeOutage: 出大问题，全线系统均已宕机！
-  partialOutage: 不太好，部分系统宕机中……
-  activeIncidents: 目前宕机中
-  incidentReport: '事故报告 #$NUMBER →'
+  liveStatusHtmlComment: ""
+  allSystemsOperational: 🟩 好耶，系统全功率运转中~
+  degradedPerformance: 🟨 啊咧，系统可用率偏低……
+  completeOutage: 🟥 出大问题，全线系统均已宕机！
+  partialOutage: 🟧 糟糕，部分系统宕机中……
+  activeIncidents: 正在发生的事件
+  incidentReport: "事故报告 #$NUMBER →"
   activeIncidentSummary: 自 $DATE 起 $POSTS 条相关动态
-  incidentTitle: 事故详情 $NUMBER
-  incidentDetails: 事故详情
+  incidentTitle: 事件详情 $NUMBER
+  incidentDetails: 事件详情
   incidentFixed: 已修复
-  incidentOngoing: 进行中
+  incidentOngoing: 宕机中
   incidentOpenedAt: 开始于
   incidentClosedAt: 结束于
   incidentSubscribe: 订阅处理进展
   incidentViewOnGitHub: 在 GitHub 查看
   incidentCommentSummary: $AUTHOR 于 $DATE 发布
-  incidentBack: ← 返回事故列表
-  pastIncidents: 过去的事故
+  incidentBack: ← 返回事件列表
+  pastIncidents: 已处理的事件
   pastIncidentsResolved: 已于 $MINUTES 分钟内解决，共 $POSTS 条动态
-  overallUptime: '总体运行状态: $UPTIME'
+  overallUptime: "总体运行状态: $UPTIME"
   overallUptimeTitle: 总体运行状态
-  averageResponseTime: '平均响应时间: $TIMEms'
+  averageResponseTime: "平均响应时间: $TIMEms"
   averageResponseTimeTitle: 平均响应
   sevelDayResponseTime: 7天响应时间
   responseTimeMs: 响应时间 (毫秒)
@@ -102,10 +102,10 @@ i18n:
   rateLimitExceededCopyPastePAT: 复制并粘贴您的令牌
   rateLimitExceededSaveToken: 保存令牌
   errorTitle: 哎呀，出大问题
-  errorIntro: 好像无法获取最新的状态数据……
+  errorIntro: 暂时无法获取最新的状态数据……
   errorText: 如果您位于中国大陆，则可能是无法访问 GitHub 数据导致的。您也可以稍后再试。
   errorHome: 回到首页
-  pastScheduledMaintenance: 过去的定期维护
+  pastScheduledMaintenance: 已完成的定期维护
   scheduledMaintenance: 定期维护
   scheduledMaintenanceSummaryStarted: 已于 $DURATION 分钟前($DATE)开始
   scheduledMaintenanceSummaryStarts: 开始于 $DURATION 分钟前($DATE)
