@@ -101,19 +101,19 @@
     "url": "https://www.notion.so/epbureau/9a6d9bd0704244a1818624f032d013f9",
     "icon": "https://favicons.githubusercontent.com/www.notion.so",
     "slug": "wjghj-notion",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "96.24%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "92.89%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.98%",
     "time": 276,
-    "timeDay": 117,
-    "timeWeek": 165,
+    "timeDay": 131,
+    "timeWeek": 167,
     "timeMonth": 202,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2022-05-25": 54
+      "2022-05-25": 102
     }
   },
   {
