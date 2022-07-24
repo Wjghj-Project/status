@@ -37,9 +37,9 @@
     "url": "https://blog.wjghj.cn",
     "icon": "https://favicons.githubusercontent.com/blog.wjghj.cn",
     "slug": "dragon-fish-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -49,6 +49,7 @@
     "timeMonth": 270,
     "timeYear": 314,
     "dailyMinutesDown": {
+      "2022-07-24": 0,
       "2021-10-01": 23,
       "2021-09-29": 21,
       "2021-08-03": 40
