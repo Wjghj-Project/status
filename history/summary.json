@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.65%",
-    "time": 5383,
-    "timeDay": 4022,
-    "timeWeek": 4189,
-    "timeMonth": 4321,
-    "timeYear": 5496,
+    "time": 5382,
+    "timeDay": 3882,
+    "timeWeek": 4089,
+    "timeMonth": 4334,
+    "timeYear": 5495,
     "dailyMinutesDown": {
       "2023-05-06": 521,
       "2023-05-05": 1440,
@@ -39,8 +39,7 @@
       "2022-08-18": 46,
       "2022-08-06": 19,
       "2022-06-30": 148,
-      "2022-06-21": 22,
-      "2022-06-16": 15
+      "2022-06-21": 22
     }
   },
   {
@@ -54,10 +53,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.35%",
-    "time": 378,
-    "timeDay": 423,
-    "timeWeek": 531,
-    "timeMonth": 558,
+    "time": 379,
+    "timeDay": 433,
+    "timeWeek": 509,
+    "timeMonth": 549,
     "timeYear": 425,
     "dailyMinutesDown": {
       "2022-12-18": 244,
@@ -81,10 +80,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.67%",
     "time": 2711,
-    "timeDay": 2372,
-    "timeWeek": 2179,
-    "timeMonth": 2179,
-    "timeYear": 3037,
+    "timeDay": 2169,
+    "timeWeek": 2182,
+    "timeMonth": 2160,
+    "timeYear": 3038,
     "dailyMinutesDown": {
       "2023-05-06": 521,
       "2023-05-05": 1440,
@@ -106,8 +105,7 @@
       "2022-08-29": 30,
       "2022-08-06": 17,
       "2022-06-30": 148,
-      "2022-06-21": 37,
-      "2022-06-16": 15
+      "2022-06-21": 37
     }
   },
   {
@@ -122,17 +120,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 247,
-    "timeDay": 138,
-    "timeWeek": 219,
-    "timeMonth": 233,
+    "timeDay": 134,
+    "timeWeek": 217,
+    "timeMonth": 228,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2023-03-27": 33,
       "2023-01-16": 21,
       "2022-11-02": 34,
       "2022-06-30": 148,
-      "2022-06-21": 37,
-      "2022-06-16": 15
+      "2022-06-21": 37
     }
   },
   {
@@ -141,16 +138,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sili.wjghj.cn.ico",
     "slug": "chatbot-sili",
     "status": "up",
-    "uptime": "97.55%",
+    "uptime": "97.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.59%",
     "uptimeMonth": "98.90%",
     "uptimeYear": "98.64%",
     "time": 1303,
-    "timeDay": 1324,
-    "timeWeek": 1380,
-    "timeMonth": 1260,
-    "timeYear": 1263,
+    "timeDay": 1052,
+    "timeWeek": 1329,
+    "timeMonth": 1257,
+    "timeYear": 1262,
     "dailyMinutesDown": {
       "2023-06-13": 157,
       "2023-06-12": 288,
@@ -176,8 +173,7 @@
       "2022-07-22": 195,
       "2022-07-21": 485,
       "2022-06-30": 148,
-      "2022-06-21": 36,
-      "2022-06-16": 15
+      "2022-06-21": 36
     }
   },
   {
@@ -191,11 +187,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.31%",
-    "time": 4241,
-    "timeDay": 3243,
-    "timeWeek": 2943,
-    "timeMonth": 3047,
-    "timeYear": 4536,
+    "time": 4239,
+    "timeDay": 1815,
+    "timeWeek": 2850,
+    "timeMonth": 3016,
+    "timeYear": 4533,
     "dailyMinutesDown": {
       "2023-05-14": 18,
       "2023-05-13": 52,
@@ -215,8 +211,7 @@
       "2022-08-18": 29,
       "2022-07-01": 15,
       "2022-06-30": 148,
-      "2022-06-21": 20,
-      "2022-06-16": 15
+      "2022-06-21": 20
     }
   },
   {
@@ -230,10 +225,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 234,
-    "timeDay": 50,
-    "timeWeek": 123,
-    "timeMonth": 174,
+    "time": 233,
+    "timeDay": 109,
+    "timeWeek": 130,
+    "timeMonth": 172,
     "timeYear": 186,
     "dailyMinutesDown": {}
   }
