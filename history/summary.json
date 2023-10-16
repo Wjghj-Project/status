@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.69%",
-    "time": 5234,
-    "timeDay": 4281,
-    "timeWeek": 4188,
-    "timeMonth": 4299,
-    "timeYear": 5434,
+    "uptimeYear": "98.72%",
+    "time": 5213,
+    "timeDay": 3548,
+    "timeWeek": 4086,
+    "timeMonth": 4288,
+    "timeYear": 5455,
     "dailyMinutesDown": {
       "2023-07-26": 22,
       "2023-05-06": 521,
@@ -34,8 +34,7 @@
       "2022-11-11": 27,
       "2022-11-10": 31,
       "2022-11-09": 30,
-      "2022-11-05": 16,
-      "2022-10-16": 406
+      "2022-11-05": 16
     }
   },
   {
@@ -48,12 +47,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.08%",
     "uptimeMonth": "98.64%",
-    "uptimeYear": "99.21%",
+    "uptimeYear": "99.24%",
     "time": 472,
-    "timeDay": 534,
-    "timeWeek": 626,
-    "timeMonth": 552,
-    "timeYear": 514,
+    "timeDay": 500,
+    "timeWeek": 617,
+    "timeMonth": 558,
+    "timeYear": 516,
     "dailyMinutesDown": {
       "2023-10-09": 597,
       "2023-07-07": 167,
@@ -61,8 +60,7 @@
       "2022-12-18": 244,
       "2022-11-18": 231,
       "2022-11-17": 1440,
-      "2022-11-16": 930,
-      "2022-10-16": 406
+      "2022-11-16": 930
     }
   },
   {
@@ -75,12 +73,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.72%",
-    "time": 2824,
-    "timeDay": 2238,
-    "timeWeek": 2242,
-    "timeMonth": 2271,
-    "timeYear": 3122,
+    "uptimeYear": "98.75%",
+    "time": 2792,
+    "timeDay": 1997,
+    "timeWeek": 2210,
+    "timeMonth": 2267,
+    "timeYear": 3134,
     "dailyMinutesDown": {
       "2023-05-06": 521,
       "2023-05-05": 1440,
@@ -96,8 +94,7 @@
       "2022-11-09": 24,
       "2022-11-08": 31,
       "2022-11-04": 36,
-      "2022-10-29": 26,
-      "2022-10-16": 406
+      "2022-10-29": 26
     }
   },
   {
@@ -111,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 252,
-    "timeDay": 332,
-    "timeWeek": 233,
-    "timeMonth": 252,
-    "timeYear": 260,
+    "time": 253,
+    "timeDay": 474,
+    "timeWeek": 237,
+    "timeMonth": 253,
+    "timeYear": 261,
     "dailyMinutesDown": {
       "2023-03-27": 33,
       "2023-01-16": 21,
@@ -128,16 +125,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sili.wjghj.cn.ico",
     "slug": "chatbot-sili",
     "status": "up",
-    "uptime": "97.89%",
+    "uptime": "97.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.14%",
-    "time": 1276,
-    "timeDay": 1011,
-    "timeWeek": 1139,
-    "timeMonth": 1113,
-    "timeYear": 1246,
+    "uptimeYear": "99.17%",
+    "time": 1275,
+    "timeDay": 878,
+    "timeWeek": 1079,
+    "timeMonth": 1110,
+    "timeYear": 1250,
     "dailyMinutesDown": {
       "2023-08-12": 73,
       "2023-08-11": 32,
@@ -154,8 +151,7 @@
       "2022-11-18": 232,
       "2022-11-17": 1440,
       "2022-11-16": 930,
-      "2022-11-12": 200,
-      "2022-10-16": 406
+      "2022-11-12": 200
     }
   },
   {
@@ -169,11 +165,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.36%",
-    "time": 4230,
-    "timeDay": 3290,
-    "timeWeek": 3165,
-    "timeMonth": 3152,
-    "timeYear": 4427,
+    "time": 4229,
+    "timeDay": 2793,
+    "timeWeek": 3088,
+    "timeMonth": 3153,
+    "timeYear": 4426,
     "dailyMinutesDown": {
       "2023-05-14": 18,
       "2023-05-13": 52,
@@ -202,9 +198,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 181,
-    "timeDay": 197,
-    "timeWeek": 132,
-    "timeMonth": 122,
+    "timeDay": 86,
+    "timeWeek": 117,
+    "timeMonth": 123,
     "timeYear": 172,
     "dailyMinutesDown": {}
   }
