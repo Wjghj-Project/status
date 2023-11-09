@@ -12,7 +12,7 @@ sites:
   - name: 万界规划局共享资源库 (Wjghj Project Static Database)
     url: https://common.wjghj.cn
   - name: 万界大百科 (Wjghj Notion)
-    url: https://www.notion.so/epbureau/9a6d9bd0704244a1818624f032d013f9
+    url: https://epbureau.notion.site/30b504f699714373a77330e59f3c53a7
   - name: Chatbot SILI
     url: https://sili.wjghj.cn
   - name: 游戏人生 Wiki 项目组 (NGNL Wiki Project Team)
@@ -36,7 +36,7 @@ status-website:
     - title: 数据
       href: https://github.com/$OWNER/$REPO
     - title: 项目组
-      href: https://proj.wjghj.cn/
+      href: https://www.epb.wiki/
     - title: GitHub
       href: https://github.com/$OWNER
 
