@@ -538,19 +538,19 @@
     "url": "https://epbureau.fandom.com",
     "icon": "https://icons.duckduckgo.com/ip3/epbureau.fandom.com.ico",
     "slug": "wiki-ep-bureau-fandom",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 141,
-    "timeDay": 125,
-    "timeWeek": 120,
-    "timeMonth": 159,
+    "timeDay": 126,
+    "timeWeek": 121,
+    "timeMonth": 158,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2024-08-30": 0
+      "2024-08-30": 25
     }
   }
 ]
