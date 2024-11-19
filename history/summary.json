@@ -465,7 +465,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ngnlwiki.cn.ico",
     "slug": "wiki-ngnl-wiki-project-team",
     "status": "up",
-    "uptime": "96.05%",
+    "uptime": "96.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.29%",
@@ -541,18 +541,19 @@
     "url": "https://epbureau.fandom.com",
     "icon": "https://icons.duckduckgo.com/ip3/epbureau.fandom.com.ico",
     "slug": "wiki-ep-bureau-fandom",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 157,
-    "timeWeek": 130,
-    "timeMonth": 189,
+    "timeDay": 123,
+    "timeWeek": 125,
+    "timeMonth": 186,
     "timeYear": 137,
     "dailyMinutesDown": {
+      "2024-11-19": 0,
       "2024-08-30": 25
     }
   }
