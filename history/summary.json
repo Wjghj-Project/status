@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.wjghj.cn.ico",
     "slug": "wjghj-wiki",
     "status": "up",
-    "uptime": "91.74%",
+    "uptime": "91.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "78.22%",
-    "time": 2878,
-    "timeDay": 1944,
-    "timeWeek": 2333,
-    "timeMonth": 2386,
-    "timeYear": 2711,
+    "uptimeYear": "78.49%",
+    "time": 2874,
+    "timeDay": 2129,
+    "timeWeek": 2279,
+    "timeMonth": 2382,
+    "timeYear": 2716,
     "dailyMinutesDown": {
       "2024-11-02": 224,
       "2024-11-01": 78,
@@ -102,8 +102,7 @@
       "2023-12-28": 1440,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
-      "2023-12-25": 1440,
-      "2023-12-24": 1440
+      "2023-12-25": 1440
     }
   },
   {
@@ -116,11 +115,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.55%",
-    "time": 404,
-    "timeDay": 241,
-    "timeWeek": 277,
-    "timeMonth": 317,
+    "uptimeYear": "89.83%",
+    "time": 403,
+    "timeDay": 237,
+    "timeWeek": 282,
+    "timeMonth": 319,
     "timeYear": 330,
     "dailyMinutesDown": {
       "2024-10-22": 29,
@@ -159,8 +158,7 @@
       "2023-12-28": 1440,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
-      "2023-12-25": 1440,
-      "2023-12-24": 1440
+      "2023-12-25": 1440
     }
   },
   {
@@ -169,16 +167,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/common.wjghj.cn.ico",
     "slug": "wjghj-project-static-database",
     "status": "up",
-    "uptime": "91.97%",
+    "uptime": "91.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "79.04%",
+    "uptimeYear": "79.32%",
     "time": 2036,
-    "timeDay": 1379,
-    "timeWeek": 1947,
-    "timeMonth": 1957,
-    "timeYear": 2010,
+    "timeDay": 2287,
+    "timeWeek": 1984,
+    "timeMonth": 1965,
+    "timeYear": 2016,
     "dailyMinutesDown": {
       "2024-11-02": 224,
       "2024-11-01": 76,
@@ -266,8 +264,7 @@
       "2023-12-28": 1440,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
-      "2023-12-25": 1440,
-      "2023-12-24": 1440
+      "2023-12-25": 1440
     }
   },
   {
@@ -282,9 +279,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 280,
-    "timeDay": 186,
-    "timeWeek": 349,
-    "timeMonth": 336,
+    "timeDay": 447,
+    "timeWeek": 375,
+    "timeMonth": 343,
     "timeYear": 275,
     "dailyMinutesDown": {
       "2024-03-22": 46
@@ -296,16 +293,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sili.wjghj.cn.ico",
     "slug": "chatbot-sili",
     "status": "up",
-    "uptime": "93.74%",
+    "uptime": "93.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "88.92%",
+    "uptimeYear": "89.19%",
     "time": 1225,
-    "timeDay": 958,
-    "timeWeek": 1296,
-    "timeMonth": 1288,
-    "timeYear": 1259,
+    "timeDay": 1251,
+    "timeWeek": 1300,
+    "timeMonth": 1283,
+    "timeYear": 1262,
     "dailyMinutesDown": {
       "2024-12-04": 43,
       "2024-12-03": 22,
@@ -361,8 +358,7 @@
       "2023-12-28": 1440,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
-      "2023-12-25": 1440,
-      "2023-12-24": 1440
+      "2023-12-25": 1440
     }
   },
   {
@@ -377,10 +373,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.19%",
     "time": 2991,
-    "timeDay": 2943,
-    "timeWeek": 3242,
-    "timeMonth": 3123,
-    "timeYear": 2888,
+    "timeDay": 3154,
+    "timeWeek": 3291,
+    "timeMonth": 3127,
+    "timeYear": 2890,
     "dailyMinutesDown": {
       "2024-11-02": 224,
       "2024-11-01": 86,
@@ -454,9 +450,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 107,
-    "timeWeek": 205,
-    "timeMonth": 171,
+    "timeDay": 173,
+    "timeWeek": 192,
+    "timeMonth": 172,
     "timeYear": 141,
     "dailyMinutesDown": {
       "2024-08-30": 25
