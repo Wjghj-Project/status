@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.31%",
-    "time": 2837,
-    "timeDay": 2208,
-    "timeWeek": 3609,
-    "timeMonth": 2650,
-    "timeYear": 2811,
+    "uptimeYear": "82.33%",
+    "time": 2850,
+    "timeDay": 10949,
+    "timeWeek": 4864,
+    "timeMonth": 2930,
+    "timeYear": 2839,
     "dailyMinutesDown": {
       "2024-11-02": 224,
       "2024-11-01": 78,
@@ -88,8 +88,7 @@
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
-      "2024-01-08": 1440,
-      "2024-01-07": 1440
+      "2024-01-08": 1440
     }
   },
   {
@@ -102,9 +101,9 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.64%",
-    "time": 395,
-    "timeDay": 316,
+    "uptimeYear": "93.66%",
+    "time": 394,
+    "timeDay": 373,
     "timeWeek": 235,
     "timeMonth": 286,
     "timeYear": 331,
@@ -131,8 +130,7 @@
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
-      "2024-01-08": 1440,
-      "2024-01-07": 1440
+      "2024-01-08": 1440
     }
   },
   {
@@ -145,12 +143,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.13%",
-    "time": 2069,
-    "timeDay": 21394,
-    "timeWeek": 5290,
-    "timeMonth": 2702,
-    "timeYear": 2129,
+    "uptimeYear": "83.15%",
+    "time": 2081,
+    "timeDay": 9277,
+    "timeWeek": 6386,
+    "timeMonth": 2937,
+    "timeYear": 2152,
     "dailyMinutesDown": {
       "2024-11-02": 224,
       "2024-11-01": 76,
@@ -224,8 +222,7 @@
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
-      "2024-01-08": 1440,
-      "2024-01-07": 1440
+      "2024-01-08": 1440
     }
   },
   {
@@ -239,11 +236,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 281,
-    "timeDay": 169,
-    "timeWeek": 293,
-    "timeMonth": 315,
-    "timeYear": 276,
+    "time": 282,
+    "timeDay": 470,
+    "timeWeek": 319,
+    "timeMonth": 321,
+    "timeYear": 277,
     "dailyMinutesDown": {
       "2024-03-22": 46
     }
@@ -258,12 +255,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.00%",
+    "uptimeYear": "93.02%",
     "time": 1223,
-    "timeDay": 985,
-    "timeWeek": 1517,
-    "timeMonth": 1321,
-    "timeYear": 1301,
+    "timeDay": 1084,
+    "timeWeek": 1503,
+    "timeMonth": 1315,
+    "timeYear": 1303,
     "dailyMinutesDown": {
       "2024-12-04": 43,
       "2024-12-03": 22,
@@ -305,8 +302,7 @@
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
-      "2024-01-08": 1440,
-      "2024-01-07": 1440
+      "2024-01-08": 1440
     }
   },
   {
@@ -316,17 +312,16 @@
     "slug": "wiki-ngnl-wiki-project-team",
     "status": "up",
     "uptime": "96.20%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "87.18%",
-    "time": 3132,
-    "timeDay": 9006,
-    "timeWeek": 4707,
-    "timeMonth": 4493,
-    "timeYear": 3022,
+    "time": 3135,
+    "timeDay": 10107,
+    "timeWeek": 4923,
+    "timeMonth": 4539,
+    "timeYear": 3027,
     "dailyMinutesDown": {
-      "2025-01-05": 11,
       "2024-12-23": 36,
       "2024-11-02": 224,
       "2024-11-01": 86,
@@ -400,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 93,
-    "timeWeek": 188,
-    "timeMonth": 193,
-    "timeYear": 145,
+    "timeDay": 228,
+    "timeWeek": 209,
+    "timeMonth": 198,
+    "timeYear": 146,
     "dailyMinutesDown": {
       "2024-08-30": 25
     }
