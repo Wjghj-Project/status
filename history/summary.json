@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "83.69%",
-    "time": 2827,
-    "timeDay": 2427,
-    "timeWeek": 3616,
-    "timeMonth": 2974,
-    "timeYear": 2870,
+    "uptimeYear": "83.97%",
+    "time": 2823,
+    "timeDay": 2471,
+    "timeWeek": 3648,
+    "timeMonth": 2971,
+    "timeYear": 2875,
     "dailyMinutesDown": {
       "2025-01-06": 33,
       "2024-11-02": 224,
@@ -83,8 +83,7 @@
       "2024-01-17": 1440,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
-      "2024-01-14": 1440,
-      "2024-01-13": 1440
+      "2024-01-14": 1440
     }
   },
   {
@@ -97,12 +96,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.03%",
+    "uptimeYear": "95.31%",
     "time": 390,
-    "timeDay": 329,
-    "timeWeek": 286,
-    "timeMonth": 274,
-    "timeYear": 331,
+    "timeDay": 439,
+    "timeWeek": 303,
+    "timeMonth": 277,
+    "timeYear": 332,
     "dailyMinutesDown": {
       "2024-10-22": 29,
       "2024-01-29": 217,
@@ -120,8 +119,7 @@
       "2024-01-17": 1440,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
-      "2024-01-14": 1440,
-      "2024-01-13": 1440
+      "2024-01-14": 1440
     }
   },
   {
@@ -130,16 +128,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/common.wjghj.cn.ico",
     "slug": "wjghj-project-static-database",
     "status": "up",
-    "uptime": "92.09%",
+    "uptime": "92.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "84.52%",
+    "uptimeYear": "84.79%",
     "time": 2077,
-    "timeDay": 1683,
-    "timeWeek": 5241,
-    "timeMonth": 2896,
-    "timeYear": 2171,
+    "timeDay": 2004,
+    "timeWeek": 2817,
+    "timeMonth": 2914,
+    "timeYear": 2176,
     "dailyMinutesDown": {
       "2025-01-06": 32,
       "2024-11-02": 224,
@@ -208,8 +206,7 @@
       "2024-01-17": 1440,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
-      "2024-01-14": 1440,
-      "2024-01-13": 1440
+      "2024-01-14": 1440
     }
   },
   {
@@ -224,10 +221,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 282,
-    "timeDay": 399,
-    "timeWeek": 294,
-    "timeMonth": 324,
-    "timeYear": 275,
+    "timeDay": 268,
+    "timeWeek": 308,
+    "timeMonth": 317,
+    "timeYear": 273,
     "dailyMinutesDown": {
       "2024-03-22": 46
     }
@@ -238,16 +235,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sili.wjghj.cn.ico",
     "slug": "chatbot-sili",
     "status": "up",
-    "uptime": "93.83%",
+    "uptime": "93.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.15%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "94.38%",
+    "uptimeYear": "94.65%",
     "time": 1223,
-    "timeDay": 1250,
-    "timeWeek": 1296,
-    "timeMonth": 1346,
-    "timeYear": 1318,
+    "timeDay": 1435,
+    "timeWeek": 1352,
+    "timeMonth": 1351,
+    "timeYear": 1321,
     "dailyMinutesDown": {
       "2025-01-06": 85,
       "2024-12-04": 43,
@@ -284,8 +281,7 @@
       "2024-01-17": 1440,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
-      "2024-01-14": 1440,
-      "2024-01-13": 1440
+      "2024-01-14": 1440
     }
   },
   {
@@ -300,10 +296,10 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "87.17%",
     "time": 3140,
-    "timeDay": 2885,
-    "timeWeek": 4916,
-    "timeMonth": 4599,
-    "timeYear": 3032,
+    "timeDay": 3052,
+    "timeWeek": 4981,
+    "timeMonth": 4597,
+    "timeYear": 3031,
     "dailyMinutesDown": {
       "2025-01-06": 31,
       "2024-12-23": 36,
@@ -378,10 +374,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 74,
-    "timeWeek": 261,
-    "timeMonth": 223,
+    "time": 143,
+    "timeDay": 108,
+    "timeWeek": 263,
+    "timeMonth": 221,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2024-08-30": 25
