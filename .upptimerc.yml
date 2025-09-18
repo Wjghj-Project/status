@@ -5,20 +5,20 @@ owner: Wjghj-Project # Your GitHub organization or username, where this reposito
 repo: status # The name of this repository
 
 sites:
-  - name: 小鱼君和他的朋友们 (Wjghj Wiki)
-    url: https://www.wjghj.cn
+  - name: 万界规划局主页 (EPB Homepage)
+    url: https://www.epb.wiki
   - name: "小鱼君的博客 (Dragon Fish's Blog)"
-    url: https://blog.wjghj.cn
-  - name: 万界规划局共享资源库 (Wjghj Project Static Database)
-    url: https://common.wjghj.cn
-  - name: 万界大百科 (Wjghj Notion)
-    url: https://epbureau.notion.site/30b504f699714373a77330e59f3c53a7
+    url: https://blog.epb.wiki
+  - name: 万界规划局共享资源库 (EPB Static)
+    url: https://common.epb.wiki
+  - name: 万界大百科 (Project:EPB Notion)
+    url: https://epb-wiki.notion.site/
   - name: Chatbot SILI
     url: https://sili.wjghj.cn
   - name: 游戏人生 Wiki 项目组 (NGNL Wiki Project Team)
     url: https://ngnlwiki.cn
-  - name: 万界规划局 wiki (EPBureau Fandom)
-    url: https://epbureau.fandom.com
+  - name: 游戏人生 wiki (NGNL wiki)
+    url: https://www.ngnl.wiki
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -26,19 +26,19 @@ status-website:
   cname: status.wjghj.cn
   # baseUrl: /your-repo-name
   # apiBaseUrl: https://hub.fastgit.org
-  logoUrl: https://www.wjghj.cn/public/icons/wiki-wordmark.svg
-  name: Wjghj Monitor
-  introTitle: '**万界规划局项目组 Wjghj Project**'
+  logoUrl: https://r2.epb.wiki/icons/wiki-wordmark.svg
+  name: EPB UP Time
+  introTitle: '**万界规划局项目组 Project:EPB**'
   introMessage: "万界规划局是 **机智的小鱼君** (AKA: __Dragon Fish__) 建立的，以小说《将来过去时》以及 web 前后端为核心的（目前）只有一名成员的项目组。\n\n项目组的重点项目有 **小说《将来过去时》** 及其衍生作品、**网站“小鱼君和他的朋友们”** 以及 **GitHub/Wjghj-Project** 的开源工具。"
   navbar:
-    - title: 首页
+    - title: 状态
       href: /
-    - title: 数据
+    - title: 仓库
       href: https://github.com/$OWNER/$REPO
-    - title: 项目组
+    - title: 项目首页
       href: https://www.epb.wiki/
     - title: GitHub
-      href: https://github.com/$OWNER
+      href: https://github.com/project-epb
 
 i18n:
   url: URL
