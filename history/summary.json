@@ -16,7 +16,8 @@
     "timeMonth": 300,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2025-09-26": 1407,
+      "2025-09-27": 48,
+      "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
@@ -113,7 +114,8 @@
     "timeMonth": 203,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2025-09-26": 1407,
+      "2025-09-27": 48,
+      "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
@@ -222,18 +224,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ngnl.wiki.ico",
     "slug": "wiki-ngnl-wiki",
     "status": "up",
-    "uptime": "98.68%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "98.68%",
-    "uptimeYear": "98.68%",
+    "uptime": "98.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.44%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "98.78%",
     "time": 4170,
     "timeDay": 8798,
     "timeWeek": 4728,
     "timeMonth": 4170,
     "timeYear": 4170,
     "dailyMinutesDown": {
-      "2025-09-26": 11,
       "2025-09-25": 139,
       "2025-09-22": 18
     }
