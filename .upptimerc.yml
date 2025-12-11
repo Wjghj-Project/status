@@ -15,10 +15,10 @@ sites:
     url: https://epb-wiki.notion.site/
   - name: Chatbot SILI
     url: https://sili.wjghj.cn
-  - name: 游戏人生 Wiki 项目组 (NGNL Wiki Project Team)
-    url: https://ngnlwiki.cn
-  - name: 游戏人生 wiki (NGNL wiki)
+  - name: 游戏人生 wiki (NGNL Wiki)
     url: https://www.ngnl.wiki
+  - name: 游戏人生 wiki 项目组 (NGNL Wiki Team)
+    url: https://blog.ngnl.wiki
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
