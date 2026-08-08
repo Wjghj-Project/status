@@ -139,17 +139,17 @@
     "url": "https://common.epb.wiki",
     "icon": "https://icons.duckduckgo.com/ip3/common.epb.wiki.ico",
     "slug": "epb-static",
-    "status": "down",
+    "status": "up",
     "uptime": "73.26%",
-    "uptimeDay": "95.27%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "90.97%",
+    "uptimeDay": "92.61%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "90.88%",
     "uptimeYear": "73.26%",
-    "time": 689,
-    "timeDay": 10292,
-    "timeWeek": 4838,
-    "timeMonth": 2386,
-    "timeYear": 689,
+    "time": 692,
+    "timeDay": 8518,
+    "timeWeek": 4528,
+    "timeMonth": 2357,
+    "timeYear": 692,
     "dailyMinutesDown": {
       "2025-12-11": 198,
       "2025-12-10": 1440,
@@ -240,7 +240,7 @@
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 37,
-      "2026-08-08": 68
+      "2026-08-08": 107
     }
   },
   {
@@ -269,16 +269,16 @@
     "url": "https://sili.wjghj.cn",
     "icon": "https://icons.duckduckgo.com/ip3/sili.wjghj.cn.ico",
     "slug": "chatbot-sili",
-    "status": "down",
-    "uptime": "95.16%",
-    "uptimeDay": "96.71%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "97.09%",
-    "time": 1728,
-    "timeDay": 10977,
-    "timeWeek": 5406,
-    "timeMonth": 2899,
+    "status": "up",
+    "uptime": "95.15%",
+    "uptimeDay": "94.06%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "97.08%",
+    "time": 1730,
+    "timeDay": 9204,
+    "timeWeek": 5106,
+    "timeMonth": 2876,
     "timeYear": 1905,
     "dailyMinutesDown": {
       "2025-08-19": 67,
@@ -298,7 +298,7 @@
       "2026-01-29": 46,
       "2026-02-24": 59,
       "2026-08-07": 47,
-      "2026-08-08": 0
+      "2026-08-08": 39
     }
   },
   {
@@ -361,7 +361,7 @@
     "timeMonth": 87,
     "timeYear": 3411,
     "dailyMinutesDown": {
-      "2026-08-08": 840,
+      "2026-08-08": 879,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
