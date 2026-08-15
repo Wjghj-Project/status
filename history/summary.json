@@ -269,17 +269,17 @@
     "url": "https://sili.wjghj.cn",
     "icon": "https://icons.duckduckgo.com/ip3/sili.wjghj.cn.ico",
     "slug": "chatbot-sili",
-    "status": "down",
+    "status": "up",
     "uptime": "95.17%",
-    "uptimeDay": "93.02%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "99.58%",
+    "uptimeDay": "91.14%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "97.06%",
-    "time": 1856,
-    "timeDay": 10799,
-    "timeWeek": 6278,
-    "timeMonth": 4073,
-    "timeYear": 2055,
+    "time": 1860,
+    "timeDay": 9653,
+    "timeWeek": 6009,
+    "timeMonth": 4041,
+    "timeYear": 2056,
     "dailyMinutesDown": {
       "2025-08-19": 67,
       "2025-09-08": 33,
@@ -299,7 +299,7 @@
       "2026-02-24": 59,
       "2026-08-07": 47,
       "2026-08-08": 39,
-      "2026-08-15": 100
+      "2026-08-15": 128
     }
   },
   {
@@ -362,7 +362,7 @@
     "timeMonth": 88,
     "timeYear": 3318,
     "dailyMinutesDown": {
-      "2026-08-15": 978,
+      "2026-08-15": 1005,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
