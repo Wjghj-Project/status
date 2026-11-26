@@ -61,7 +61,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.13%",
+    "uptimeYear": "95.14%",
     "time": 1192,
     "timeDay": 2984,
     "timeWeek": 1815,
@@ -146,17 +146,17 @@
     "url": "https://www.ngnl.wiki",
     "icon": "https://icons.duckduckgo.com/ip3/www.ngnl.wiki.ico",
     "slug": "wiki-ngnl-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "81.20%",
-    "uptimeDay": "36.52%",
-    "uptimeWeek": "17.62%",
-    "uptimeMonth": "3.65%",
+    "uptimeDay": "38.52%",
+    "uptimeWeek": "17.90%",
+    "uptimeMonth": "3.71%",
     "uptimeYear": "77.76%",
-    "time": 1356,
-    "timeDay": 699,
-    "timeWeek": 421,
-    "timeMonth": 224,
-    "timeYear": 1158,
+    "time": 1354,
+    "timeDay": 566,
+    "timeWeek": 393,
+    "timeMonth": 219,
+    "timeYear": 1155,
     "dailyMinutesDown": {
       "2025-12-05": 33,
       "2025-12-10": 18,
@@ -253,7 +253,7 @@
       "2026-11-20": 1440,
       "2026-11-25": 915,
       "2026-11-24": 1364,
-      "2026-11-26": 282
+      "2026-11-26": 283
     }
   },
   {
@@ -273,7 +273,7 @@
     "timeMonth": 5792,
     "timeYear": 2878,
     "dailyMinutesDown": {
-      "2026-11-26": 283,
+      "2026-11-26": 312,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
